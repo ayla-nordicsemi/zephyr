@@ -9,4 +9,8 @@
 
 #include <soc_nrf_common.h>
 
+#if 0
+#warning "test commit"
+#endif
+
 #endif /* SOC_ARM_NORDIC_NRF_NRF9280_SOC_H_ */
